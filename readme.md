@@ -15,8 +15,8 @@
 <img align="center" width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=willianvozes&show_icons=true&count_private=true&hide_border=true&title_color=eeff00&icon_color=ff0000&text_color=fff&bg_color=0000" alt="Will github stats"/>
 
 <div align="center">
-    <a href="https://instagram.com/pin_willian" target="_blank"><img src="https://img.shields.io/badge/instagram-0000000?style=for-the-badge&logo=instagram&logoColor=fff" style="border-radius: 30px;"></a>
-    <a href="https://x.com/willianvozes" target="_blank"><img src="https://img.shields.io/badge/twitter-0000000?style=for-the-badge&logo=x&logoColor=ffff" style="border-radius: 30px; align-itens: center;" target="_blank"></a>
+    <a href="https://instagram.com/pin_willian" target="_blank"><img src="https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=fff" style="border-radius: 30px;"></a>
+    <a href="https://x.com/willianvozes" target="_blank"><img src="https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=x&logoColor=ffff" style="border-radius: 30px; align-itens: center;" target="_blank"></a>
 </div>
         
 <br><br>
