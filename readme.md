@@ -22,7 +22,7 @@
 
 
 
-![snake gif](https://github.com/willianvozes/willianvozes/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/willianvozes/willianvozes/blob/output/github-user-contribution.svg)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
