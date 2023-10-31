@@ -24,11 +24,11 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=willianvoz
             src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=7111C4"></a>
 </div>
 
-<br><br>
+<br>
 
 <p align="center">
   <h2">👾 My Skills and what i'm learning: 👾</h2>
-    <br>
+    <br><br>
   <img src="https://skillicons.dev/icons?i=git,c,arduino,figma,html,css,js,nodejs,md,lua" />  
 </p>
 
