@@ -24,13 +24,15 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=willianvoz
             src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=7111C4"></a>
 </div>
 
-<br>
+</hr><br>
 
 <p align="center">
   <h2">👾 My Skills and what i'm learning: 👾</h2>
+    <br>
   <img src="https://skillicons.dev/icons?i=git,c,arduino,figma,html,css,js,nodejs,md,lua" />  
 </p>
 
+<br>
   <img align=center height=150 src="https://streak-stats.demolab.com/?user=willianvozes&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats"/>
 
 <br>
