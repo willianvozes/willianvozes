@@ -5,11 +5,6 @@
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=7111C4&center=true&vCenter=true&random=false&width=1200&height=150&&lines=+Hello+World!+I'm+Will.;I'm+19+yo+guy;who+studies+Software+Engineering;at+UniAmerica.+I+like+FRONT-END;and+may+the+force+be+with+you...)](https://git.io/typing-svg)
 
-
-![snake gif](https://github.com/willianvozes/willianvozes/blob/output/github-user-contribution.svg)
-
-
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
@@ -31,19 +26,12 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=willianvoz
 
 <br>
 
-  <h2 align="center">👾 My Skills and what i'm learning: 👾</h2>
 <p align="center">
+  <h2">👾 My Skills and what i'm learning: 👾</h2>
   <img src="https://skillicons.dev/icons?i=git,c,arduino,figma,html,css,js,nodejs,md,lua" />  
 </p>
 
-
-<div align=center>
-  <img height=150 src="https://streak-stats.demolab.com/?user=willianvozes&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats"/>
-  <img height=150 src="https://github-readme-stats-willianvozes.vercel.app/api?username=willianvozes&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img height=150 src="https://github-readme-stats-willianvozes.vercel.app/api/top-langs/?username=willianvozes&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
+  <img align=center height=150 src="https://streak-stats.demolab.com/?user=willianvozes&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats"/>
 
 <br>
 <img width=100%
