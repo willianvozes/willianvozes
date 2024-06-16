@@ -16,7 +16,7 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=willianvoz
 
 
 <div align="center">
-    <a href="https://instagram.com/pin_willian" target="_blank"><img
+    <a href="https://instagram.com/the_dev.will" target="_blank"><img
             src="https://img.shields.io/badge/insta-000?style=for-the-badge&logo=instagram&logoColor=7111C4"></a>
     <a href="https://x.com/willianvozes" target="_blank"><img
             src="https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=x&logoColor=7111C4"></a>
