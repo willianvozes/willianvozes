@@ -11,14 +11,14 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=
 </picture>
 
 [![Ashutosh's github activity
-graph](https://github-readme-activity-graph.vercel.app/graph?username=willianvozes&bg_color=0000000&color=7111C4&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+graph](https://github-readme-activity-graph.vercel.app/graph?username=willkiwi&bg_color=0000000&color=7111C4&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 <div align="center">
     <a href="https://instagram.com/the_dev.will" target="_blank"><img
             src="https://img.shields.io/badge/insta-000?style=for-the-badge&logo=instagram&logoColor=7111C4"></a>
-    <a href="https://x.com/willianvozes" target="_blank"><img
+    <a href="https://x.com/the_devwill" target="_blank"><img
             src="https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=x&logoColor=7111C4"></a>
     <a href="mailto:contatowillpm@gmail.com"><img
             src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=7111C4"></a>
@@ -29,13 +29,13 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=willianvoz
 <p align="center">
   <h2">👾 My Skills and what i'm learning: 👾</h2>
     <br><br>
-  <img src="https://skillicons.dev/icons?i=git,c,arduino,figma,html,css,js,nodejs,md,lua" />  
+  <img src="https://skillicons.dev/icons?i=git,c,arduino,figma,js,nodejs,java,spring,postman,typescript,angular" />  
 </p>
 
 <br>
 
 <div align=center>
-  <img height=150 src="https://streak-stats.demolab.com/?user=willianvozes&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats"/>
+  <img height=150 src="https://streak-stats.demolab.com/?user=willkiwi&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats"/>
 </div>
 
 <br>
